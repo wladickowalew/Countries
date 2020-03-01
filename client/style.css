@@ -1,0 +1,14 @@
+#form{
+	display: flex;
+	justify-content: center;
+}
+
+form{
+	margin: 30px;
+	width: 300px;
+}
+
+#mybutton{
+	margin-top: 10px;
+	width: 100%;
+}
